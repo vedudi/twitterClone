@@ -2,7 +2,7 @@
 
 - Twitter klonu üzerinde çalıştım ve sonunda tamamladım. Bu projede birkaç modern web geliştirme teknolojisi ve kütüphane kullandım. İşte detaylar:
 
-####✨ Kullanılan Teknolojiler:
+#### ✨ Kullanılan Teknolojiler:
 
 
 - ⚛️ React: Kullanıcı arayüzünü oluşturmak için.
@@ -21,7 +21,7 @@
 
 - 🌟 React Icons: Projeye ikonlar eklemek için.
 
-####🔧 Özellikler:
+#### 🔧 Özellikler:
 
 
 - 📄 Tweet oluşturma, düzenleme ve silme
